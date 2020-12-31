@@ -1,0 +1,29 @@
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP0\PixelLib\bin\Release\PixelLib.dll
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP0\PixelLib\bin\Release\PixelLib.pdb
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP0\PixelLib\obj\Release\PixelLib.dll
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP0\PixelLib\obj\Release\PixelLib.pdb
+C:\Users\Joel\Desktop\ProjectePP0\PixelLib\bin\Release\PixelLib.dll
+C:\Users\Joel\Desktop\ProjectePP0\PixelLib\bin\Release\PixelLib.pdb
+C:\Users\Joel\Desktop\ProjectePP0\PixelLib\obj\Release\PixelLib.dll
+C:\Users\Joel\Desktop\ProjectePP0\PixelLib\obj\Release\PixelLib.pdb
+C:\Users\Joel\Desktop\ProjectePP0\PixelLib\obj\Release\PixelLib.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\ProjectePP1-20190408T141559Z-001\ProjectePP1\PixelLib\bin\Release\PixelLib.dll
+C:\Users\Joel\Desktop\ProjectePP1-20190408T141559Z-001\ProjectePP1\PixelLib\bin\Release\PixelLib.pdb
+C:\Users\Joel\Desktop\ProjectePP1-20190408T141559Z-001\ProjectePP1\PixelLib\obj\Release\PixelLib.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\ProjectePP1-20190408T141559Z-001\ProjectePP1\PixelLib\obj\Release\PixelLib.dll
+C:\Users\Joel\Desktop\ProjectePP1-20190408T141559Z-001\ProjectePP1\PixelLib\obj\Release\PixelLib.pdb
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\PixelLib\bin\Release\PixelLib.dll
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\PixelLib\bin\Release\PixelLib.pdb
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\PixelLib\obj\Release\PixelLib.csprojResolveAssemblyReference.cache
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\PixelLib\obj\Release\PixelLib.dll
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\PixelLib\obj\Release\PixelLib.pdb
+C:\Users\Joel\Desktop\ProjProg\ProjectePP1\PixelLib\bin\Release\PixelLib.dll
+C:\Users\Joel\Desktop\ProjProg\ProjectePP1\PixelLib\bin\Release\PixelLib.pdb
+C:\Users\Joel\Desktop\ProjProg\ProjectePP1\PixelLib\obj\Release\PixelLib.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\ProjProg\ProjectePP1\PixelLib\obj\Release\PixelLib.dll
+C:\Users\Joel\Desktop\ProjProg\ProjectePP1\PixelLib\obj\Release\PixelLib.pdb
+C:\Users\Joel\Desktop\ProjectePP1\PixelLib\bin\Release\PixelLib.dll
+C:\Users\Joel\Desktop\ProjectePP1\PixelLib\bin\Release\PixelLib.pdb
+C:\Users\Joel\Desktop\ProjectePP1\PixelLib\obj\Release\PixelLib.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\ProjectePP1\PixelLib\obj\Release\PixelLib.dll
+C:\Users\Joel\Desktop\ProjectePP1\PixelLib\obj\Release\PixelLib.pdb

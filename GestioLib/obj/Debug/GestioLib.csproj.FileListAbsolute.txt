@@ -1,0 +1,35 @@
+C:\Users\Joel\Desktop\ProjectePP1\GestioLib\bin\Debug\GestioLib.dll
+C:\Users\Joel\Desktop\ProjectePP1\GestioLib\bin\Debug\GestioLib.pdb
+C:\Users\Joel\Desktop\ProjectePP1\GestioLib\bin\Debug\System.Data.SQLite.dll
+C:\Users\Joel\Desktop\ProjectePP1\GestioLib\bin\Debug\System.Data.SQLite.xml
+C:\Users\Joel\Desktop\ProjectePP1\GestioLib\obj\Debug\GestioLib.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\ProjectePP1\GestioLib\obj\Debug\GestioLib.dll
+C:\Users\Joel\Desktop\ProjectePP1\GestioLib\obj\Debug\GestioLib.pdb
+C:\Users\Joel\Desktop\ProjProg\ProjectePP1\GestioLib\bin\Debug\GestioLib.dll
+C:\Users\Joel\Desktop\ProjProg\ProjectePP1\GestioLib\bin\Debug\GestioLib.pdb
+C:\Users\Joel\Desktop\ProjProg\ProjectePP1\GestioLib\bin\Debug\System.Data.SQLite.dll
+C:\Users\Joel\Desktop\ProjProg\ProjectePP1\GestioLib\bin\Debug\System.Data.SQLite.xml
+C:\Users\Joel\Desktop\ProjProg\ProjectePP1\GestioLib\obj\Debug\GestioLib.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\ProjProg\ProjectePP1\GestioLib\obj\Debug\GestioLib.dll
+C:\Users\Joel\Desktop\ProjProg\ProjectePP1\GestioLib\obj\Debug\GestioLib.pdb
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP1\ProjectePP1\GestioLib\bin\Debug\GestioLib.dll
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP1\ProjectePP1\GestioLib\bin\Debug\GestioLib.pdb
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP1\ProjectePP1\GestioLib\bin\Debug\System.Data.SQLite.dll
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP1\ProjectePP1\GestioLib\bin\Debug\System.Data.SQLite.xml
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP1\ProjectePP1\GestioLib\obj\Debug\GestioLib.csprojResolveAssemblyReference.cache
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP1\ProjectePP1\GestioLib\obj\Debug\GestioLib.dll
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP1\ProjectePP1\GestioLib\obj\Debug\GestioLib.pdb
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1\ProjectePP1\GestioLib\bin\Debug\GestioLib.dll
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1\ProjectePP1\GestioLib\bin\Debug\GestioLib.pdb
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1\ProjectePP1\GestioLib\bin\Debug\System.Data.SQLite.dll
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1\ProjectePP1\GestioLib\bin\Debug\System.Data.SQLite.xml
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1\ProjectePP1\GestioLib\obj\Debug\GestioLib.csprojResolveAssemblyReference.cache
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1\ProjectePP1\GestioLib\obj\Debug\GestioLib.dll
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1\ProjectePP1\GestioLib\obj\Debug\GestioLib.pdb
+C:\Users\Joel\Desktop\1er\ProjProg\ProjectePP1\GestioLib\bin\Debug\GestioLib.dll
+C:\Users\Joel\Desktop\1er\ProjProg\ProjectePP1\GestioLib\bin\Debug\GestioLib.pdb
+C:\Users\Joel\Desktop\1er\ProjProg\ProjectePP1\GestioLib\bin\Debug\System.Data.SQLite.dll
+C:\Users\Joel\Desktop\1er\ProjProg\ProjectePP1\GestioLib\bin\Debug\System.Data.SQLite.xml
+C:\Users\Joel\Desktop\1er\ProjProg\ProjectePP1\GestioLib\obj\Debug\GestioLib.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\1er\ProjProg\ProjectePP1\GestioLib\obj\Debug\GestioLib.dll
+C:\Users\Joel\Desktop\1er\ProjProg\ProjectePP1\GestioLib\obj\Debug\GestioLib.pdb

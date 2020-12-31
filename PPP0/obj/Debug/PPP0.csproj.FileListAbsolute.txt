@@ -1,0 +1,162 @@
+C:\Users\Joel\Desktop\ProjectePP0\PPP0\bin\Debug\PPP0.dll
+C:\Users\Joel\Desktop\ProjectePP0\PPP0\bin\Debug\PPP0.pdb
+C:\Users\Joel\Desktop\ProjectePP0\PPP0\bin\Debug\PixelLib.dll
+C:\Users\Joel\Desktop\ProjectePP0\PPP0\bin\Debug\PixelLib.pdb
+C:\Users\Joel\Desktop\ProjectePP0\PPP0\obj\Debug\PPP0.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\ProjectePP0\PPP0\obj\Debug\PPP0.dll
+C:\Users\Joel\Desktop\ProjectePP0\PPP0\obj\Debug\PPP0.pdb
+C:\Users\Joel\Desktop\ProjProg\ProjectePP0\PPP0\bin\Debug\PPP0.dll
+C:\Users\Joel\Desktop\ProjProg\ProjectePP0\PPP0\bin\Debug\PPP0.pdb
+C:\Users\Joel\Desktop\ProjProg\ProjectePP0\PPP0\bin\Debug\PixelLib.dll
+C:\Users\Joel\Desktop\ProjProg\ProjectePP0\PPP0\bin\Debug\PixelLib.pdb
+C:\Users\Joel\Desktop\ProjProg\ProjectePP0\PPP0\obj\Debug\PPP0.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\ProjProg\ProjectePP0\PPP0\obj\Debug\PPP0.dll
+C:\Users\Joel\Desktop\ProjProg\ProjectePP0\PPP0\obj\Debug\PPP0.pdb
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP0\PPP0\bin\Debug\PPP0.dll
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP0\PPP0\bin\Debug\PPP0.pdb
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP0\PPP0\bin\Debug\PixelLib.dll
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP0\PPP0\bin\Debug\PixelLib.pdb
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP0\PPP0\obj\Debug\PPP0.csprojResolveAssemblyReference.cache
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP0\PPP0\obj\Debug\PPP0.dll
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP0\PPP0\obj\Debug\PPP0.pdb
+C:\Users\Joel\Desktop\ProjectePP1\PPP0\obj\Debug\PPP0.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\ProjectePP1\PPP0\obj\Debug\PPP0.dll
+C:\Users\Joel\Desktop\ProjectePP1\PPP0\bin\Debug\PPP0.dll
+C:\Users\Joel\Desktop\ProjectePP1\PPP0\bin\Debug\PPP0.pdb
+C:\Users\Joel\Desktop\ProjectePP1\PPP0\bin\Debug\PixelLib.dll
+C:\Users\Joel\Desktop\ProjectePP1\PPP0\bin\Debug\PixelLib.pdb
+C:\Users\Joel\Desktop\ProjectePP1\PPP0\obj\Debug\PPP0.pdb
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\PPP0\bin\Debug\PPP0.dll
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\PPP0\bin\Debug\PPP0.pdb
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\PPP0\bin\Debug\PixelLib.dll
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\PPP0\bin\Debug\PixelLib.pdb
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\PPP0\obj\Debug\PPP0.csprojResolveAssemblyReference.cache
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\PPP0\obj\Debug\PPP0.dll
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\PPP0\obj\Debug\PPP0.pdb
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP1\PPP0\bin\Debug\PPP0.dll
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP1\PPP0\bin\Debug\PPP0.pdb
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP1\PPP0\bin\Debug\PixelLib.dll
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP1\PPP0\bin\Debug\PixelLib.pdb
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP1\PPP0\obj\Debug\PPP0.csprojResolveAssemblyReference.cache
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP1\PPP0\obj\Debug\PPP0.dll
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP1\PPP0\obj\Debug\PPP0.pdb
+C:\Users\Joel\Desktop\ProjectePP1-20190408T141559Z-001\ProjectePP1\PPP0\bin\Debug\PPP0.dll
+C:\Users\Joel\Desktop\ProjectePP1-20190408T141559Z-001\ProjectePP1\PPP0\bin\Debug\PPP0.pdb
+C:\Users\Joel\Desktop\ProjectePP1-20190408T141559Z-001\ProjectePP1\PPP0\bin\Debug\PixelLib.dll
+C:\Users\Joel\Desktop\ProjectePP1-20190408T141559Z-001\ProjectePP1\PPP0\bin\Debug\PixelLib.pdb
+C:\Users\Joel\Desktop\ProjectePP1-20190408T141559Z-001\ProjectePP1\PPP0\obj\Debug\PPP0.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\ProjectePP1-20190408T141559Z-001\ProjectePP1\PPP0\obj\Debug\PPP0.dll
+C:\Users\Joel\Desktop\ProjectePP1-20190408T141559Z-001\ProjectePP1\PPP0\obj\Debug\PPP0.pdb
+C:\Users\Joel\Desktop\ProjProg\ProjectePP1\PPP0\bin\Debug\PPP0.dll
+C:\Users\Joel\Desktop\ProjProg\ProjectePP1\PPP0\bin\Debug\PPP0.pdb
+C:\Users\Joel\Desktop\ProjProg\ProjectePP1\PPP0\bin\Debug\PixelLib.dll
+C:\Users\Joel\Desktop\ProjProg\ProjectePP1\PPP0\bin\Debug\PixelLib.pdb
+C:\Users\Joel\Desktop\ProjProg\ProjectePP1\PPP0\obj\Debug\PPP0.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\ProjProg\ProjectePP1\PPP0\obj\Debug\PPP0.dll
+C:\Users\Joel\Desktop\ProjProg\ProjectePP1\PPP0\obj\Debug\PPP0.pdb
+C:\Users\Albert Compte Prades\Downloads\Projecte PP1 + imatges\ProjectePP1\PPP0\bin\Debug\PPP0.dll
+C:\Users\Albert Compte Prades\Downloads\Projecte PP1 + imatges\ProjectePP1\PPP0\bin\Debug\PPP0.pdb
+C:\Users\Albert Compte Prades\Downloads\Projecte PP1 + imatges\ProjectePP1\PPP0\bin\Debug\PixelLib.dll
+C:\Users\Albert Compte Prades\Downloads\Projecte PP1 + imatges\ProjectePP1\PPP0\bin\Debug\PixelLib.pdb
+C:\Users\Albert Compte Prades\Downloads\Projecte PP1 + imatges\ProjectePP1\PPP0\obj\Debug\PPP0.csprojResolveAssemblyReference.cache
+C:\Users\Albert Compte Prades\Downloads\Projecte PP1 + imatges\ProjectePP1\PPP0\obj\Debug\PPP0.dll
+C:\Users\Albert Compte Prades\Downloads\Projecte PP1 + imatges\ProjectePP1\PPP0\obj\Debug\PPP0.pdb
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\Projecte PP1 + imatges\ProjectePP1\PPP0\bin\Debug\PPP0.dll
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\Projecte PP1 + imatges\ProjectePP1\PPP0\bin\Debug\PPP0.pdb
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\Projecte PP1 + imatges\ProjectePP1\PPP0\bin\Debug\PixelLib.dll
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\Projecte PP1 + imatges\ProjectePP1\PPP0\bin\Debug\PixelLib.pdb
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\Projecte PP1 + imatges\ProjectePP1\PPP0\obj\Debug\PPP0.csprojResolveAssemblyReference.cache
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\Projecte PP1 + imatges\ProjectePP1\PPP0\obj\Debug\PPP0.dll
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\Projecte PP1 + imatges\ProjectePP1\PPP0\obj\Debug\PPP0.pdb
+C:\Users\Joel\Desktop\ProjectePP1\PPP0\bin\Debug\GestioLib.dll
+C:\Users\Joel\Desktop\ProjectePP1\PPP0\bin\Debug\System.Data.SQLite.dll
+C:\Users\Joel\Desktop\ProjectePP1\PPP0\bin\Debug\GestioLib.pdb
+C:\Users\Joel\Desktop\ProjectePP1\PPP0\bin\Debug\System.Data.SQLite.xml
+C:\Users\Joel\Desktop\ProjProg\ProjectePP1\PPP0\bin\Debug\GestioLib.dll
+C:\Users\Joel\Desktop\ProjProg\ProjectePP1\PPP0\bin\Debug\System.Data.SQLite.dll
+C:\Users\Joel\Desktop\ProjProg\ProjectePP1\PPP0\bin\Debug\GestioLib.pdb
+C:\Users\Joel\Desktop\ProjProg\ProjectePP1\PPP0\bin\Debug\System.Data.SQLite.xml
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\ProjectePP1DELGADO\PPP0\bin\Debug\PPP0.dll
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\ProjectePP1DELGADO\PPP0\bin\Debug\PPP0.pdb
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\ProjectePP1DELGADO\PPP0\bin\Debug\GestioLib.dll
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\ProjectePP1DELGADO\PPP0\bin\Debug\PixelLib.dll
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\ProjectePP1DELGADO\PPP0\bin\Debug\System.Data.SQLite.dll
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\ProjectePP1DELGADO\PPP0\bin\Debug\GestioLib.pdb
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\ProjectePP1DELGADO\PPP0\bin\Debug\PixelLib.pdb
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\ProjectePP1DELGADO\PPP0\bin\Debug\System.Data.SQLite.xml
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\ProjectePP1DELGADO\PPP0\obj\Debug\PPP0.csprojResolveAssemblyReference.cache
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\ProjectePP1DELGADO\PPP0\obj\Debug\PPP0.dll
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\ProjectePP1DELGADO\PPP0\obj\Debug\PPP0.pdb
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP1\ProjectePP1\PPP0\bin\Debug\PPP0.dll
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP1\ProjectePP1\PPP0\bin\Debug\PPP0.pdb
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP1\ProjectePP1\PPP0\bin\Debug\GestioLib.dll
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP1\ProjectePP1\PPP0\bin\Debug\PixelLib.dll
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP1\ProjectePP1\PPP0\bin\Debug\System.Data.SQLite.dll
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP1\ProjectePP1\PPP0\bin\Debug\GestioLib.pdb
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP1\ProjectePP1\PPP0\bin\Debug\PixelLib.pdb
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP1\ProjectePP1\PPP0\bin\Debug\System.Data.SQLite.xml
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP1\ProjectePP1\PPP0\obj\Debug\PPP0.csprojResolveAssemblyReference.cache
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP1\ProjectePP1\PPP0\obj\Debug\PPP0.dll
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP1\ProjectePP1\PPP0\obj\Debug\PPP0.pdb
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP1\ProjectePP1\PPP0\obj\Debug\ImagenLib.InformacióForm.resources
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP1\ProjectePP1\PPP0\obj\Debug\PPP0.csproj.GenerateResource.Cache
+C:\Users\Albert Compte Prades\Documents\UPC\1B\Projecte de programació\ProjectePP1\ProjectePP1\PPP0\obj\Debug\ImagenLib.Properties.Resources.resources
+C:\Users\Joel\Desktop\ProjectePP1\PPP0\obj\Debug\ImagenLib.InformacióForm.resources
+C:\Users\Joel\Desktop\ProjectePP1\PPP0\obj\Debug\ImagenLib.Properties.Resources.resources
+C:\Users\Joel\Desktop\ProjectePP1\PPP0\obj\Debug\PPP0.csproj.GenerateResource.Cache
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\ProjectePP1\PPP0\bin\Debug\PPP0.dll
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\ProjectePP1\PPP0\bin\Debug\PPP0.pdb
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\ProjectePP1\PPP0\bin\Debug\GestioLib.dll
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\ProjectePP1\PPP0\bin\Debug\PixelLib.dll
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\ProjectePP1\PPP0\bin\Debug\System.Data.SQLite.dll
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\ProjectePP1\PPP0\bin\Debug\GestioLib.pdb
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\ProjectePP1\PPP0\bin\Debug\PixelLib.pdb
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\ProjectePP1\PPP0\bin\Debug\System.Data.SQLite.xml
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\ProjectePP1\PPP0\obj\Debug\PPP0.csprojResolveAssemblyReference.cache
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\ProjectePP1\PPP0\obj\Debug\ImagenLib.InformacióForm.resources
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\ProjectePP1\PPP0\obj\Debug\ImagenLib.Properties.Resources.resources
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\ProjectePP1\PPP0\obj\Debug\PPP0.csproj.GenerateResource.Cache
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\ProjectePP1\PPP0\obj\Debug\PPP0.dll
+C:\Users\Albert Compte Prades\Downloads\ProjectePP1\ProjectePP1\PPP0\obj\Debug\PPP0.pdb
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1\ProjectePP1\PPP0\bin\Debug\PPP0.dll
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1\ProjectePP1\PPP0\bin\Debug\PPP0.pdb
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1\ProjectePP1\PPP0\bin\Debug\GestioLib.dll
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1\ProjectePP1\PPP0\bin\Debug\PixelLib.dll
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1\ProjectePP1\PPP0\bin\Debug\System.Data.SQLite.dll
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1\ProjectePP1\PPP0\bin\Debug\GestioLib.pdb
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1\ProjectePP1\PPP0\bin\Debug\PixelLib.pdb
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1\ProjectePP1\PPP0\bin\Debug\System.Data.SQLite.xml
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1\ProjectePP1\PPP0\obj\Debug\PPP0.csprojResolveAssemblyReference.cache
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1\ProjectePP1\PPP0\obj\Debug\ImagenLib.InformacióForm.resources
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1\ProjectePP1\PPP0\obj\Debug\ImagenLib.Properties.Resources.resources
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1\ProjectePP1\PPP0\obj\Debug\PPP0.csproj.GenerateResource.Cache
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1\ProjectePP1\PPP0\obj\Debug\PPP0.dll
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1\ProjectePP1\PPP0\obj\Debug\PPP0.pdb
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1 - Ampliació Albert Compte\ProjectePP1\PPP0\bin\Debug\PPP0.dll
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1 - Ampliació Albert Compte\ProjectePP1\PPP0\bin\Debug\PPP0.pdb
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1 - Ampliació Albert Compte\ProjectePP1\PPP0\bin\Debug\GestioLib.dll
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1 - Ampliació Albert Compte\ProjectePP1\PPP0\bin\Debug\PixelLib.dll
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1 - Ampliació Albert Compte\ProjectePP1\PPP0\bin\Debug\System.Data.SQLite.dll
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1 - Ampliació Albert Compte\ProjectePP1\PPP0\bin\Debug\GestioLib.pdb
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1 - Ampliació Albert Compte\ProjectePP1\PPP0\bin\Debug\PixelLib.pdb
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1 - Ampliació Albert Compte\ProjectePP1\PPP0\bin\Debug\System.Data.SQLite.xml
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1 - Ampliació Albert Compte\ProjectePP1\PPP0\obj\Debug\PPP0.csprojResolveAssemblyReference.cache
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1 - Ampliació Albert Compte\ProjectePP1\PPP0\obj\Debug\ImagenLib.InformacióForm.resources
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1 - Ampliació Albert Compte\ProjectePP1\PPP0\obj\Debug\ImagenLib.Properties.Resources.resources
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1 - Ampliació Albert Compte\ProjectePP1\PPP0\obj\Debug\PPP0.csproj.GenerateResource.Cache
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1 - Ampliació Albert Compte\ProjectePP1\PPP0\obj\Debug\PPP0.dll
+C:\Users\Albert Compte Prades\Desktop\ProjectePP1 - Ampliació Albert Compte\ProjectePP1\PPP0\obj\Debug\PPP0.pdb
+C:\Users\Joel\Desktop\1er\ProjProg\ProjectePP1\PPP0\bin\Debug\PPP0.dll
+C:\Users\Joel\Desktop\1er\ProjProg\ProjectePP1\PPP0\bin\Debug\PPP0.pdb
+C:\Users\Joel\Desktop\1er\ProjProg\ProjectePP1\PPP0\bin\Debug\GestioLib.dll
+C:\Users\Joel\Desktop\1er\ProjProg\ProjectePP1\PPP0\bin\Debug\PixelLib.dll
+C:\Users\Joel\Desktop\1er\ProjProg\ProjectePP1\PPP0\bin\Debug\System.Data.SQLite.dll
+C:\Users\Joel\Desktop\1er\ProjProg\ProjectePP1\PPP0\bin\Debug\GestioLib.pdb
+C:\Users\Joel\Desktop\1er\ProjProg\ProjectePP1\PPP0\bin\Debug\PixelLib.pdb
+C:\Users\Joel\Desktop\1er\ProjProg\ProjectePP1\PPP0\bin\Debug\System.Data.SQLite.xml
+C:\Users\Joel\Desktop\1er\ProjProg\ProjectePP1\PPP0\obj\Debug\PPP0.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\1er\ProjProg\ProjectePP1\PPP0\obj\Debug\ImagenLib.InformacióForm.resources
+C:\Users\Joel\Desktop\1er\ProjProg\ProjectePP1\PPP0\obj\Debug\ImagenLib.Properties.Resources.resources
+C:\Users\Joel\Desktop\1er\ProjProg\ProjectePP1\PPP0\obj\Debug\PPP0.csproj.GenerateResource.Cache
+C:\Users\Joel\Desktop\1er\ProjProg\ProjectePP1\PPP0\obj\Debug\PPP0.dll
+C:\Users\Joel\Desktop\1er\ProjProg\ProjectePP1\PPP0\obj\Debug\PPP0.pdb
